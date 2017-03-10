@@ -1,6 +1,6 @@
 # Giselle Gomez - giselle.gomez@wsu.edu
 # Aaron Goin - aaron.goin@wsu.edu
-# Ri "Richie" Zhang - ri.zhang@wsu.edu
+# Ri Zhang - ri.zhang@wsu.edu
 # CS 483
 # Web Scraper - Sweets, Fruits, Desserts
 
